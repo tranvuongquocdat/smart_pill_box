@@ -8,7 +8,7 @@ tối 1, ngăn 2: Barbiturat, trưa 2 tối 2,...)
 + Thông báo qua điện thoại nếu bỏ uống thuốc quá 3 lần,
 quá 3 ngày sẽ báo cho người thân.
 - **Thiết bị:**
-+Tóm tắt: báo hiệu khi đến giờ uống thuốc, hiển thị số
++ Tóm tắt: báo hiệu khi đến giờ uống thuốc, hiển thị số
 thuốc cần uống mỗi loại
 Cụ thể:
 + Có 5 ngăn chưa thuốc, kích thước nhỏ gọn, dễ dàng
