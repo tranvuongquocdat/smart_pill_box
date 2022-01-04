@@ -1,5 +1,5 @@
 Chức năng:
-**App**:
+-**App**:
 + Hẹn giờ uống thuốc
 + Set up loại thuốc ở từng ngăn và số lượng thuốc cần
 uống( có thể set up đơn lẻ VD: ngăn 1: melatonin, trưa 2
@@ -7,7 +7,7 @@ tối 1, ngăn 2: Barbiturat, trưa 2 tối 2,...)
 + Đăng ký tài khoản, liên kết với tài khoản người thân
 + Thông báo qua điện thoại nếu bỏ uống thuốc quá 3 lần,
 quá 3 ngày sẽ báo cho người thân.
-**Thiết bị:**
+-**Thiết bị:**
 +Tóm tắt: báo hiệu khi đến giờ uống thuốc, hiển thị số
 thuốc cần uống mỗi loại
 Cụ thể:
